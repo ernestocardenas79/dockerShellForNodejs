@@ -12,3 +12,5 @@ USER app
 WORKDIR $HOME/chat
 
 RUN npm install
+
+CMD ["node", "index.js"]
