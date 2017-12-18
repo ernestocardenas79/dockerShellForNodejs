@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ernestocardenas79/shell/issues"
   },
-  "homepage": "https://github.com/ernestocardenas79/shell#readme"
+  "homepage": "https://github.com/ernestocardenas79/shell#readme",
+  "dependencies": {
+    "express": "^4.10.2"
+  }
 }
